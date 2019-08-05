@@ -24,10 +24,10 @@
 			<Text>你期待建设，以提高你的大规模部队的性能。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>印度特色古典时代单位。相邻敌方单位战斗力 -5 [ICON_STRENGTH]。</Text>
+			<Text>印度特色古典时代单位。相邻敌方单位战斗力-5 [ICON_STRENGTH]。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>现代火力支援单位。对抗近程、反骑兵、轻骑兵单位战斗力增加。除非获得“火力与机动”晋升，否则无法在同意回合内移动与攻击。</Text>
+			<Text>现代火力支援单位。对抗近程、反骑兵、轻骑兵单位战斗力增加。除非获得“射击与机动”晋升，否则无法在同意回合内移动与攻击。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_INFANTRY_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>原子能时代近程单位。</Text>
@@ -74,7 +74,7 @@
 			<Text>原子能时代海军近战单位。可发现视觉范围内的海军远程掠夺单位。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>原子能时代海军轰炸单位。为 1 单元格内的空军及核攻击型潜艇提供掩护。</Text>
+			<Text>原子能时代海军轰炸单位。为1单元格内的空军及核攻击型潜艇提供掩护。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME" Language="zh_Hans_CN">
 			<Text>弹道导弹潜艇</Text>
@@ -84,9 +84,9 @@
 			<Text>一级战列舰</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_ENGLISH_SHIP_OF_THE_LINE_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>英国特色文艺复兴时代海军轰炸单位，取代风帆战列舰。与另一一级战列舰相邻时 +7 [ICON_Strength]。</Text>
+			<Text>英国特色文艺复兴时代海军轰炸单位，取代风帆战列舰。与另一一级战列舰相邻时+7 [ICON_Strength]。</Text>
 		</Replace>
 		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENGLISH_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
-			<Text>在英国皇家海军的评级系统用于对帆船战舰进行分类时，一级战列舰是该系列最大型舰艇的名称，相当于近期的超级无畏舰。 起源于詹姆士一世时代的皇家船舶，至少可以载400名船员。在接下来的250年里，一级战列舰的规模和建立最终表明该船在三个炮台上至少携带80门炮。 到十八世纪末，一级战列舰携带不少于100支枪，超过850名机组人员，测量吨位约为2,000吨。</Text>
+			<Text>在英国皇家海军的评级系统用于对帆船战舰进行分类时，一级战列舰是该系列最大型舰艇的名称，相当于近期的超级无畏舰。 起源于詹姆士一世时代的皇家船舶，至少可以载400名船员。在接下来的250年里，一级战列舰的规模和建立最终表明该船在三个炮台上至少携带80门炮。到十八世纪末，一级战列舰携带不少于100支枪，超过850名机组人员，测量吨位约为2,000吨。</Text>
 	</LocalizedText>
 </GameData>
