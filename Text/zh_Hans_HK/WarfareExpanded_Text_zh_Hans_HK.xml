@@ -466,8 +466,9 @@
 		<Replace Tag="LOC_UNIT_RAIDER_NAME" Language="zh_Hans_HK">
 			<Text>海盜船</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_RAIDER_DESCRIPTION" Language="de_DE">
-			<Text>工業時代海軍劫掠單位。</Text>		
+		<Replace Tag="LOC_UNIT_RAIDER_DESCRIPTION" Language="zh_Hans_HK">
+			<Text>工業時代海軍劫掠單位。</Text>
+		</Replace>
 		<Replace Tag="LOC_UNIT_COG_NAME" Language="zh_Hans_HK">
 			<Text>柯克船</Text>
 		</Replace>
