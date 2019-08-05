@@ -3,78 +3,90 @@
 	<LocalizedText>
 		<!-- Land Units -->
 		<Replace Tag="LOC_UNIT_AT_CREW_NAME" Language="zh_Hans_CN">
-			<Text>火力支援班</Text>
+			<Text>重武器</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>原子能时代火力支援单位。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_MODERN_AT_NAME" Language="zh_Hans_CN">
-			<Text>先进火力支援班</Text>
+			<Text>先进重武器</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>信息时代火力支援单位。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_HELICOPTER_NAME" Language="zh_Hans_CN">
-			<Text>武装直升机</Text>
+			<Text>攻击直升机</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_HELICOPTER_DESCRIPTION" Language="zh_Hans_CN">
 			<Text>快速移动的信息时代反骑兵单位。</Text>
 		</Replace>
 		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY" Language="zh_Hans_CN">
-			<Text>你期待通过建造来提高你庞大远程部队的表现。</Text>
+			<Text>你期待建设，以提高你的大规模部队的性能。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>印度独有的古典时期单位，取代甲胄骑兵。敌对单位-5 [ICON_STRENGTH] 近战攻击力。</Text>
+			<Text>印度特色古典时代单位。相邻敌方单位战斗力 -5 [ICON_STRENGTH]。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>现代火力支援单位。对近战、反骑兵和轻骑兵单位的战斗强度加值[ICON_Strength]。除非获得射击和机动提升，否则不能移动和攻击同一个回合。</Text>
-		</Replace>
-		<Replace Tag="LOC_UNIT_HORSEMAN_NAME" Language="zh_Hans_CN">
-			<Text>骑手</Text>
+			<Text>现代火力支援单位。对抗近程、反骑兵、轻骑兵单位战斗力增加。除非获得“火力与机动”晋升，否则无法在同意回合内移动与攻击。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_INFANTRY_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>原子能近战单位。</Text>
+			<Text>原子能时代近程单位。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>文艺复兴反骑兵单位。</Text>
+			<Text>文艺复兴时代反骑兵单位。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_TANK_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>快速移动的原子能重骑兵单位，忽略区域控制。</Text>
+			<Text>快速移动的原子能时代重骑兵单位，忽略区域控制。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_MODERN_ARMOR_NAME" Language="zh_Hans_CN">
 			<Text>主战坦克</Text>
 		</Replace>
+		<Replace Tag="LOC_UNIT_ARMORED_HORSEMAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>强力的古典时代重骑兵单位。</Text>
+		</Replace>
 		<Replace Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>工业时代支援单位。相邻远程单位+1攻击范围[ICON_Range]。</Text>
+			<Text>工业时代火力支援单位。对抗攻城单位 +1 [ICON_Range]。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_ARTILLERY_NAME" Language="zh_Hans_CN">
-			<Text>大炮</Text>
+			<Text>重型大炮</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>信息时代骑兵单位。</Text>
+			<Text>信息时代轻骑兵单位。</Text>
 		</Replace>
-		<!-- Air Units -->
+		<Replace Tag="LOC_UNIT_LANDSHIP_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>强力的现代重骑兵单位。</Text>
+		</Replace>
+		<!-- Air Units -->		
 		<Replace Tag="LOC_UNIT_BOMBER_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>原子能时代早期轰炸机升级。</Text>
+			<Text>原子能时代早期轰炸机升级而来。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_BIPLANE_NAME" Language="zh_Hans_CN">
-			<Text>近代战斗机</Text>
+			<Text>早期战斗机</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_FIGHTER_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>原子能时代早期战斗机升级。</Text>
+			<Text>原子能时代早期战斗机升级而来。</Text>
 		</Replace>
 		<!-- Naval Units -->
 		<Replace Tag="LOC_UNIT_CARAVEL_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>中世纪快速探索近战海军单位。</Text>
+			<Text>快速移动的中世纪海军近战单位。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_DESTROYER_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>原子时代海军近战单位。在视线范围内可探海军突袭单位。</Text>
+			<Text>原子能时代海军近战单位。可发现视觉范围内的海军远程掠夺单位。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>原子时代海军轰炸单位。提供掩护从空中到核攻击最多1格以外。</Text>
+			<Text>原子能时代海军轰炸单位。为 1 单元格内的空军及核攻击型潜艇提供掩护。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME" Language="zh_Hans_CN">
-			<Text>核潜艇</Text>
+			<Text>弹道导弹潜艇</Text>
 		</Replace>
+		<!-- S&T:UU -->
+		<Replace Tag="LOC_UNIT_ENGLISH_SHIP_OF_THE_LINE_NAME" Language="zh_Hans_CN">
+			<Text>一级战列舰</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ENGLISH_SHIP_OF_THE_LINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>英国特色文艺复兴时代海军轰炸单位，取代风帆战列舰。与另一一级战列舰相邻时 +7 [ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENGLISH_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>在英国皇家海军的评级系统用于对帆船战舰进行分类时，一级战列舰是该系列最大型舰艇的名称，相当于近期的超级无畏舰。 起源于詹姆士一世时代的皇家船舶，至少可以载400名船员。在接下来的250年里，一级战列舰的规模和建立最终表明该船在三个炮台上至少携带80门炮。 到十八世纪末，一级战列舰携带不少于100支枪，超过850名机组人员，测量吨位约为2,000吨。</Text>
 	</LocalizedText>
 </GameData>
