@@ -2,79 +2,91 @@
 <GameData>
 	<LocalizedText>
 		<!-- Land Units -->
-		<Replace Tag="LOC_UNIT_AT_CREW_NAME" Language="zh_Hans_HK">
-			<Text>火力支援班</Text>
+		<Replace Tag="LOC_UNIT_AT_CREW_NAME" Language="zh_Hans_CN">
+			<Text>重武器</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>原子能時代火力支援單位。</Text>
+		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>核子時代火力支援單位。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_MODERN_AT_NAME" Language="zh_Hans_HK">
-			<Text>先進火力支援班</Text>
+		<Replace Tag="LOC_UNIT_MODERN_AT_NAME" Language="zh_Hans_CN">
+			<Text>先進重武器</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>信息時代火力支援單位。</Text>
+		<Replace Tag="LOC_UNIT_AT_CREW_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>資訊時代火力支援單位。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_HELICOPTER_NAME" Language="zh_Hans_HK">
-			<Text>武裝直升機</Text>
+		<Replace Tag="LOC_UNIT_HELICOPTER_NAME" Language="zh_Hans_CN">
+			<Text>攻擊直升機</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_HELICOPTER_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>快速移動的信息時代反騎兵單位。</Text>
+		<Replace Tag="LOC_UNIT_HELICOPTER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>快速移動嘅資訊時代反騎兵單位。</Text>
 		</Replace>
-		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY" Language="zh_Hans_HK">
-			<Text>妳期待通過建造來提高妳龐大遠程部隊的表現。</Text>
+		<Replace Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY" Language="zh_Hans_CN">
+			<Text>你期待建設，以提高你嘅大規模部隊嘅性能。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>印度獨有的古典時期單位，取代甲胄騎兵。敵對單位-5 [ICON_STRENGTH] 近戰攻擊力。</Text>
+		<Replace Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>印度特色古典時代單位。相鄰敵方單位戰鬥力 -5 [ICON_STRENGTH]。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>現代火力支援單位。對近戰、反騎兵和輕騎兵單位的戰鬥強度加值[ICON_Strength]。除非獲得射擊和機動提升，否則不能移動和攻擊同壹個回合。</Text>
+		<Replace Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>現代火力支援單位。對抗近程、反騎兵、輕騎兵單位戰鬥力增加。除非獲得“火力與機動”晉升，否則無法在同意回合內移動與攻擊。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_HORSEMAN_NAME" Language="zh_Hans_HK">
-			<Text>騎手</Text>
+		<Replace Tag="LOC_UNIT_INFANTRY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>核子時代近程單位。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_INFANTRY_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>原子能近戰單位。</Text>
+		<Replace Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>文藝復興時代反騎兵單位。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>文藝複興反騎兵單位。</Text>
+		<Replace Tag="LOC_UNIT_TANK_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>快速移動嘅原子能時代重騎兵單位，忽略區域控制。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_TANK_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>快速移動的原子能重騎兵單位，忽略區域控制。</Text>
-		</Replace>
-		<Replace Tag="LOC_UNIT_MODERN_ARMOR_NAME" Language="zh_Hans_HK">
+		<Replace Tag="LOC_UNIT_MODERN_ARMOR_NAME" Language="zh_Hans_CN">
 			<Text>主戰坦克</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>工業時代支援單位。相鄰遠程單位+1攻擊範圍[ICON_Range]。</Text>
+		<Replace Tag="LOC_UNIT_ARMORED_HORSEMAN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>強力嘅古典時代重騎兵單位。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_ARTILLERY_NAME" Language="zh_Hans_HK">
-			<Text>大炮</Text>
+		<Replace Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>工業時代火力支援單位。對抗攻城單位 +1 [ICON_Range]。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>信息時代騎兵單位。</Text>
+		<Replace Tag="LOC_UNIT_ARTILLERY_NAME" Language="zh_Hans_CN">
+			<Text>重型大炮</Text>
 		</Replace>
-		<!-- Air Units -->
-		<Replace Tag="LOC_UNIT_BOMBER_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>原子能時代早期轟炸機升級。</Text>
+		<Replace Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>資訊時代輕騎兵單位。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_BIPLANE_NAME" Language="zh_Hans_HK">
-			<Text>近代戰鬥機</Text>
+		<Replace Tag="LOC_UNIT_LANDSHIP_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>強力的現代重騎兵單位。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_FIGHTER_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>原子能時代早期戰鬥機升級。</Text>
+		<!-- Air Units -->		
+		<Replace Tag="LOC_UNIT_BOMBER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>原子能時代早期轟炸機升級而來。</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BIPLANE_NAME" Language="zh_Hans_CN">
+			<Text>早期戰鬥機</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIGHTER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>核子時代早期戰鬥機升級而來。</Text>
 		</Replace>
 		<!-- Naval Units -->
-		<Replace Tag="LOC_UNIT_CARAVEL_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>中世紀快速探索近戰海軍單位。</Text>
+		<Replace Tag="LOC_UNIT_CARAVEL_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>快速移動嘅中世紀海軍近戰單位。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_DESTROYER_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>原子時代海軍近戰單位。在視線範圍內可探海軍突襲單位。</Text>
+		<Replace Tag="LOC_UNIT_DESTROYER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>原子能時代海軍近戰單位。可發現視覺範圍內的海軍遠端掠奪單位。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION" Language="zh_Hans_HK">
-			<Text>原子時代海軍轟炸單位。提供掩護從空中到核攻擊最多1格以外。</Text>
+		<Replace Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>原子能時代海軍轟炸單位。為 1 儲存格內的空軍及核攻擊型潛艇提供掩護。</Text>
 		</Replace>
-		<Replace Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME" Language="zh_Hans_HK">
-			<Text>核潛艇</Text>
+		<Replace Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME" Language="zh_Hans_CN">
+			<Text>彈道導彈潛艇</Text>
 		</Replace>
+		<!-- S&T:UU -->
+		<Replace Tag="LOC_UNIT_ENGLISH_SHIP_OF_THE_LINE_NAME" Language="zh_Hans_CN">
+			<Text>一級戰列艦</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ENGLISH_SHIP_OF_THE_LINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>英國特色文藝復興時代海軍轟炸單位，取代風帆戰列艦。與另一一級戰列艦相鄰時 +7 [ICON_Strength]。</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ENGLISH_SHIP_OF_THE_LINE_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>在英國皇家海軍的評級系統用於對帆船戰艦進行分類時，一級戰列艦是該系列最大型艦艇的名稱，相當於近期的超級無畏艦。 起源于詹姆士一世時代的皇家船舶，至少可以載400名船員。在接下來的250年裡，一級戰列艦的規模和建立最終表明該船在三個炮臺上至少攜帶80門炮。到十八世紀末，一級戰列艦攜帶不少於100支槍，超過850名機組人員，測量噸位約為2,000噸。</Text>
 	</LocalizedText>
 </GameData>
