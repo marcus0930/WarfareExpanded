@@ -464,10 +464,10 @@
 			<Text>信息时代海军轰炸单位。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_RAIDER_NAME" Language="zh_Hans_CN">
-			<Text>海盗船</Text>
+			<Text>伪装巡洋舰</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_RAIDER_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>工工业时代海军劫掠单位。</Text>
+			<Text>工业时代海军劫掠单位。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_COG_NAME" Language="zh_Hans_CN">
 			<Text>柯克船</Text>
