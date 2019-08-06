@@ -464,7 +464,7 @@
 			<Text>資訊時代海軍轟炸單位。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_RAIDER_NAME" Language="zh_Hans_HK">
-			<Text>海盜船</Text>
+			<Text>偽裝巡洋艦</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_RAIDER_DESCRIPTION" Language="zh_Hans_HK">
 			<Text>工業時代海軍劫掠單位。</Text>
